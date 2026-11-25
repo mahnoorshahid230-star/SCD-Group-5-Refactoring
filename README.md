@@ -29,6 +29,13 @@ Group Information
 
 - Group Number: 5
 - Project Name: Yatzy Refactoring
+- ## Group Members
+
+1. Aamna Shahban       SWEN241101104
+2. Laiba Shahban       SWEN241101060
+3. Khadija Latif       SWEN241101053
+4. Mahnoor  Shahid     SWEN241101068
+5. Arooba Irfan        SWEN242101066
 
 Technologies Used
 
