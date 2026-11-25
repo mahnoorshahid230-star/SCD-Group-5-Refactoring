@@ -10,3 +10,34 @@ If you like this Kata, you may be interested in [my books](https://leanpub.com/u
 
 The problem that this code is designed to solve is explained here: [Yatzy](https://sammancoaching.org/kata_descriptions/yatzy.html)
 
+
+
+Yatzy Refactoring Project
+
+Project Description
+
+Yatzy is a Python-based dice game. This project focuses on improving code quality through refactoring techniques.
+
+Project Objectives
+
+- Improve code readability.
+- Remove duplicated scoring logic.
+- Simplify complex conditions.
+- Improve code maintainability.
+
+Group Information
+
+- Group Number: 5
+- Project Name: Yatzy Refactoring
+
+Technologies Used
+
+- Python
+- Git
+- GitHub
+
+How to Run
+
+1. Install Python.
+2. Download or clone the repository.
+3. Run the main Python file.
